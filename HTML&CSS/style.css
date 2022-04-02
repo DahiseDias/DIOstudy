@@ -1,0 +1,49 @@
+
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cabecalho{
+    background-color: cadetblue;
+    padding: 20px;
+    display: flex;
+}
+
+#icon{
+    height: 100px;
+    margin-right: 20px;
+}
+
+#title{
+    color: whitesmoke;
+}
+.postagem{
+    display: flex;
+    text-align: justify;
+}
+
+#imagem{
+    height: 500px;
+    margin: 10px;
+}
+article{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 1200px;
+    padding: 20px;
+    border: 2px solid cadetblue;
+}
+
+footer{
+    padding: 20px;
+
+}
+
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    font-size: larger;
+    color: cadetblue;
+}
